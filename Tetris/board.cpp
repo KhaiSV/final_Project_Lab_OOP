@@ -1,4 +1,5 @@
 #include "board.h"
+#include "piece.h"
 
 Board::Board() {
 	width = 10;
